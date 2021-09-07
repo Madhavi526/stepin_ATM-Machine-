@@ -1,4 +1,5 @@
-## ATM MACHINE MINI PROJECT
+# ATM MACHINE MINI PROJECT
+## REQUIREMENTS
 ## Introduction
 ATM MACHINE:The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdrawal or deposit, a second message will be sent after the transaction has been physically completed (cash dispensed or envelope accepted).
 If the bank determines that the customer's PIN is invalid, the customer will be required to re-enter the PIN before a transaction can proceed. If the customer is unable to successfully enter the PIN after three tries, the card will be permanently retained by the machine, and the customer will have to contact the bank to get it back.
@@ -57,3 +58,28 @@ Here “ X”  is  a unique identifying integer.
 |ATM-NFR-9|The envelope feeder can beopened so many envelopsthat has been deposited can be removed.|
 |ATM-NFR-10|The cash dispenser can be openedand refilled with cash.|
 |ATM-NFR-11|The printer can be opened and refilled with paper.|
+# 4W'S AND 1'H
+## WHO
+-Young adults aged 18-34 rely more on ATMs than older people.
+
+-Heavy ATM users tend to be employed full time.
+
+-Heavy ATM users are more likely to use their bank's ATMs regardless of location.
+
+-Frequent ATM users are more likely to be interested in advanced ATM features.
+## WHAT
+An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller.
+## WHEN
+ATMs are convenient, allowing consumers to perform quick self-service transactions such as deposits, cash withdrawals, bill payments, and transfers between accounts.
+## WHERE
+-Banks. Banks, credit unions, and other financial institutions are among the first places people look for an ATM. ...
+-Nightclubs and Bars. ...
+-Hotels. ...
+-Grocery Stores. ...
+-Gas Stations. ...
+-Festivals and Events. ...
+-Casinos. ...
+-Cannabis Dispensaries.
+anywhere you can use your cards.
+## HOW
+An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.
