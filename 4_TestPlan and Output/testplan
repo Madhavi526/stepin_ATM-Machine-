@@ -1,10 +1,5 @@
 1. Run the code in Visual studio 
-
-2.It will ask you to select the pin generation
-
-3.Generate the pin ( generated pins by different users are saved in pin.txt file)
-
-4.Access the banking options using the validated Pin number
+2. Access the banking options using the validated Pin number
 
 ** You can check the account balance
 
@@ -13,3 +8,5 @@
 ** You can withdraw money in your account
 
 ** You can view the transaction history
+
+** You can  Exit the transaction.
