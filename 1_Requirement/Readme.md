@@ -1,4 +1,6 @@
 # ATM MACHINE MINI PROJECT
+![ATM](https://user-images.githubusercontent.com/78212567/132479090-c5344aa0-7af6-4655-bbb3-1e98eb4990e0.jpg)
+
 ## REQUIREMENTS
 ## Introduction
 ATM MACHINE:The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdrawal or deposit, a second message will be sent after the transaction has been physically completed (cash dispensed or envelope accepted).
@@ -93,7 +95,7 @@ An automated teller machine (ATM) is an electronic banking outlet that allows cu
 |HR04|User must be able to access banking options|Implemented|
 |HR05|User must be able to check balance|Implemented|
 |HR06|User must be able to Deposit money|Implemented|
-|HR07|User must be able to withdraw money	Implemented|
+|HR07|User must be able to withdraw money|Implemented|
 ## Low level Requirements:
 |ID|Description|Status|
 |---|-----------|-----|
