@@ -6,3 +6,4 @@ An ATM In C is based on a concept of managing an account personally. From this A
 ![Code Quality Score](https://www.code-inspector.com/project/27580/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/27580/status/svg)
 
+![Build badge](https://cdn.jsdelivr.net/gh/jenkinsci/embeddable-build-status-plugin@master/src/doc/plastic_unconfigured.svg)
